@@ -1,0 +1,6 @@
+vendor/
+uploads/
+debug_db.php
+generate_hash.php
+test_*.php
+composer.phar 
